@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,15 @@ namespace CookingClassManagementSystem.DTO
             ChiPhi = chiPhi;
             ThoiGianBatDau = thoiGianBatDau;
             ThoiGianKetThuc = thoiGianKetThuc;
+        }
+        public LichHoc(DataRow row)
+        {
+            MaLichHoc = Convert.ToInt32(row["MaLichHoc"]);
+            MaLopHoc = Convert.ToInt32(row["MaLopHoc"]);
+            Ngay = Convert.ToDateTime(row["Ngay"]);
+            ChiPhi = Convert.ToDecimal(row["ChiPhi"]);
+            ThoiGianBatDau = (TimeSpan)row["ThoiGianBatDau"];
+            ThoiGianKetThuc = (TimeSpan)row["ThoiGianKetThuc"];
         }
     }
 }

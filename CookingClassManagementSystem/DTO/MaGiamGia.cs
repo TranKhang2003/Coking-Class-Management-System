@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,5 +23,14 @@ namespace CookingClassManagementSystem.DTO
             PhanTramGiamGia = phanTramGiamGia;
             Code = code;
         }
+        public MaGiamGia(DataRow row)
+        {
+            Ma = Convert.ToInt32(row["Ma"]);
+            GiaTri = Convert.ToDecimal(row["GiaTri"]);
+            Loai = row["Loai"].ToString();
+            PhanTramGiamGia = Convert.ToInt32(row["PhanTramGiamGia"]);
+            Code = Convert.ToInt32(row["Code"]);
+        }
+        
     }
 }

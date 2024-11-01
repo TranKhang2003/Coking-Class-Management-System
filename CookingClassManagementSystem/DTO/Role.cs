@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,11 @@ namespace CookingClassManagementSystem.DTO
         {
             get => roleName;
             set => roleName = value;
+        }
+        public Role(DataRow row)
+        {
+            Id = Convert.ToInt32(row["Id"]);             // Hoặc "Ma" nếu bạn đang dùng mã
+            RoleName = row["RoleName"].ToString();       // Tên vai trò
         }
     }
 

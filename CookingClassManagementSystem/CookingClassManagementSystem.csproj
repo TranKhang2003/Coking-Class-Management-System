@@ -46,6 +46,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\ChiTietLopHocDAO.cs" />
+    <Compile Include="DAO\DanhGiaHocVienDAO.cs" />
+    <Compile Include="DAO\DanhGiaLopHocDAO.cs" />
+    <Compile Include="DAO\GiaoVienDAO.cs" />
+    <Compile Include="DAO\HoanTienBaoLuuDAO.cs" />
+    <Compile Include="DAO\HocVienDAO.cs" />
+    <Compile Include="DAO\LichHocDAO.cs" />
+    <Compile Include="DAO\LopHocCoPhiDAO.cs" />
+    <Compile Include="DAO\LopHocDAO.cs" />
+    <Compile Include="DAO\LopHocMienPhiDAO.cs" />
+    <Compile Include="DAO\LopHoc_HocVienDAO.cs" />
+    <Compile Include="DAO\MaGiamGiaDAO.cs" />
+    <Compile Include="DAO\MonAnDAO.cs" />
+    <Compile Include="DAO\RoleDAO.cs" />
+    <Compile Include="DAO\ThongTinQuangCaoLopHocDAO.cs" />
+    <Compile Include="DAO\UserDAO.cs" />
     <Compile Include="DataProvider.cs" />
     <Compile Include="DTO\ChiTietLopHoc.cs" />
     <Compile Include="DTO\DanhGiaHocVien.cs" />

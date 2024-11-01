@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -35,6 +36,13 @@ namespace CookingClassManagementSystem.DTO
         {
             get => email;
             set => email = value;
+        }
+        public User(DataRow row)
+        {
+            Id = Convert.ToInt32(row["Id"]);
+            HoTen = row["HoTen"].ToString();
+            MatKhau = row["MatKhau"].ToString();
+            Email = row["Email"].ToString();
         }
     }
 

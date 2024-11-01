@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,6 +28,17 @@ namespace CookingClassManagementSystem.DTO
             NgayDangKy = ngayDangKy;
             GhiChu = ghiChu;
             Sdt = sdt;
+        }
+        public HocVien(DataRow row)
+        {
+            Id = Convert.ToInt32(row["Id"]);
+            UserId = Convert.ToInt32(row["UserId"]);
+            HoTen = row["HoTen"].ToString();
+            GioiTinh = Convert.ToBoolean(row["GioiTinh"]);
+            NgaySinh = Convert.ToDateTime(row["NgaySinh"]);
+            NgayDangKy = Convert.ToDateTime(row["NgayDangKy"]);
+            GhiChu = row["GhiChu"].ToString();
+            Sdt = row["Sdt"].ToString();
         }
     }
 

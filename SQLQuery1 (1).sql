@@ -990,6 +990,36 @@ BEGIN
 END;
 GO
 
+CREATE PROCEDURE TimMonAnTheoLoaiMon
+    @LoaiMon NVARCHAR(255)
+AS
+BEGIN
+    SELECT TenMon, HinhAnhMon, LoaiMon
+    FROM MonAn
+    WHERE LoaiMon = @LoaiMon;
+END;
+go
+CREATE PROCEDURE LayLopHocGiaoVienDangDay
+    @GiaoVienId INT
+AS
+BEGIN
+    SELECT MaLopHoc, MonAn, DiaDiem, SoNguoiDangKy, SoNguoiDangKyToiDA, ThongTin, GhiChu
+    FROM LopHocNauAn
+    WHERE GiaoVienId = @GiaoVienId;
+END;
+go
+CREATE PROCEDURE LayLopHocHocVienDangThamGia
+    @HocVienId INT
+AS
+BEGIN
+    SELECT LHN.MaLopHoc, LHN.MonAn, LHN.DiaDiem, LHN.SoNguoiDangKy, LHN.SoNguoiDangKyToiDA, LHN.ThongTin, LHN.GhiChu
+    FROM LopHocNauAn_HocVien LHNV
+    JOIN LopHocNauAn LHN ON LHNV.LopHocNauAnId = LHN.MaLopHoc
+    WHERE LHNV.HocVienId = @HocVienId;
+END;
+go
+
+
 --Trigger
 -- Trigger về giáo viên 
 -- Trigger kiểm tra dữ liệu giáo viên trước khi thêm vào bảng 

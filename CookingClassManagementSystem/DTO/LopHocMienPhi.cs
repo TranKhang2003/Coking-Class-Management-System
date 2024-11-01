@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +18,12 @@ namespace CookingClassManagementSystem.DTO
             MaLopHoc = maLopHoc;
             NhanHangHocTac = nhanHangHocTac;
             LopHocNauAnId = lopHocNauAnId;
+        }
+        public LopHocMienPhi(DataRow row)
+        {
+            MaLopHoc = Convert.ToInt32(row["MaLopHoc"]);
+            NhanHangHocTac = row["NhanHangHocTac"].ToString();
+            LopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
         }
     }
 }

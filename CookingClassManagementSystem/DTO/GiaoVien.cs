@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -84,6 +85,18 @@ namespace CookingClassManagementSystem.DTO
             Luong = luong;
         }
         public User User { get; set; }
+        public GiaoVien(DataRow row)
+        {
+            Id = Convert.ToInt32(row["Id"]);
+            UserId = Convert.ToInt32(row["UserId"]);
+            HoTen = row["HoTen"].ToString();
+            NgaySinh = Convert.ToDateTime(row["NgaySinh"]);
+            GioiTinh = Convert.ToBoolean(row["GioiTinh"]);
+            ChuyenMon = row["ChuyenMon"].ToString();
+            SoNamKinhNghiem = Convert.ToInt32(row["SoNamKinhNghiem"]);
+            Sdt = row["Sdt"].ToString();
+            Luong = Convert.ToDecimal(row["Luong"]);
+        }
     }
 
 }

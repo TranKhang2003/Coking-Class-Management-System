@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,6 +28,17 @@ namespace CookingClassManagementSystem.DTO
             HinhThucThanhToan = hinhThucThanhToan;
             TrangThaiThanhToan = trangThaiThanhToan;
             MaGiamGia = maGiamGia;
+        }
+        public LopHocNauAnHocVien(DataRow row)
+        {
+            LopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
+            HocVienId = Convert.ToInt32(row["HocVienId"]);
+            NgayGioDangKy = Convert.ToDateTime(row["NgayGioDangKy"]);
+            TrangThaiDangKy = row["TrangThaiDangKy"].ToString();
+            SoTienDaThanhToan = Convert.ToDecimal(row["SoTienDaThanhToan"]);
+            HinhThucThanhToan = Convert.ToBoolean(row["HinhThucThanhToan"]);
+            TrangThaiThanhToan = row["TrangThaiThanhToan"].ToString();
+            MaGiamGia = row["MaGiamGia"] != DBNull.Value ? (int?)Convert.ToInt32(row["MaGiamGia"]) : null;
         }
     }
 }
