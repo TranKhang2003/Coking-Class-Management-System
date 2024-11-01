@@ -1,44 +1,41 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CookingClassManagementSystem.DTO
 {
-    public class LopHocNauAnHocVien
+    public class LopHoc_HocVien
     {
-        public int LopHocNauAnId { get; set; }
-        public int HocVienId { get; set; }
-        public DateTime NgayGioDangKy { get; set; }
-        public string TrangThaiDangKy { get; set; }
-        public decimal SoTienDaThanhToan { get; set; }
-        public bool HinhThucThanhToan { get; set; }
-        public string TrangThaiThanhToan { get; set; }
-        public int? MaGiamGia { get; set; }
+        public int lopHocNauAnId { get; set; }
+        public int hocVienId { get; set; }
+        public DateTime ngayGioDangKy { get; set; }
+        public string trangThaiDangKy { get; set; }
+        public decimal soTienDaThanhToan { get; set; }
+        public bool hinhThucThanhToan { get; set; }
+        public string trangThaiThanhToan { get; set; }
+        public int? maGiamGia { get; set; }
 
-        public LopHocNauAnHocVien(int lopHocNauAnId, int hocVienId, DateTime ngayGioDangKy, string trangThaiDangKy, decimal soTienDaThanhToan, bool hinhThucThanhToan, string trangThaiThanhToan, int? maGiamGia)
+        public LopHoc_HocVien(int lopHocNauAnId, int hocVienId, DateTime ngayGioDangKy, string trangThaiDangKy, decimal soTienDaThanhToan, bool hinhThucThanhToan, string trangThaiThanhToan, int? maGiamGia)
         {
-            LopHocNauAnId = lopHocNauAnId;
-            HocVienId = hocVienId;
-            NgayGioDangKy = ngayGioDangKy;
-            TrangThaiDangKy = trangThaiDangKy;
-            SoTienDaThanhToan = soTienDaThanhToan;
-            HinhThucThanhToan = hinhThucThanhToan;
-            TrangThaiThanhToan = trangThaiThanhToan;
-            MaGiamGia = maGiamGia;
+            this.lopHocNauAnId = lopHocNauAnId;
+            this.hocVienId = hocVienId;
+            this.ngayGioDangKy = ngayGioDangKy;
+            this.trangThaiDangKy = trangThaiDangKy;
+            this.soTienDaThanhToan = soTienDaThanhToan;
+            this.hinhThucThanhToan = hinhThucThanhToan;
+            this.trangThaiThanhToan = trangThaiThanhToan;
+            this.maGiamGia = maGiamGia;
         }
-        public LopHocNauAnHocVien(DataRow row)
+
+        public LopHoc_HocVien(DataRow row)
         {
-            LopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
-            HocVienId = Convert.ToInt32(row["HocVienId"]);
-            NgayGioDangKy = Convert.ToDateTime(row["NgayGioDangKy"]);
-            TrangThaiDangKy = row["TrangThaiDangKy"].ToString();
-            SoTienDaThanhToan = Convert.ToDecimal(row["SoTienDaThanhToan"]);
-            HinhThucThanhToan = Convert.ToBoolean(row["HinhThucThanhToan"]);
-            TrangThaiThanhToan = row["TrangThaiThanhToan"].ToString();
-            MaGiamGia = row["MaGiamGia"] != DBNull.Value ? (int?)Convert.ToInt32(row["MaGiamGia"]) : null;
+            lopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
+            hocVienId = Convert.ToInt32(row["HocVienId"]);
+            ngayGioDangKy = Convert.ToDateTime(row["NgayGioDangKy"]);
+            trangThaiDangKy = row["TrangThaiDangKy"].ToString();
+            soTienDaThanhToan = Convert.ToDecimal(row["SoTienDaThanhToan"]);
+            hinhThucThanhToan = Convert.ToBoolean(row["HinhThucThanhToan"]);
+            trangThaiThanhToan = row["TrangThaiThanhToan"].ToString();
+            maGiamGia = row["MaGiamGia"] != DBNull.Value ? (int?)Convert.ToInt32(row["MaGiamGia"]) : null;
         }
     }
 }

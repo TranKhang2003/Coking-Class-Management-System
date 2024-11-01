@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CookingClassManagementSystem.DTO
 {
@@ -72,31 +68,33 @@ namespace CookingClassManagementSystem.DTO
             get => luong;
             set => luong = value;
         }
+
         public GiaoVien(int id, int userId, string hoTen, DateTime ngaySinh, bool gioiTinh, string chuyenMon, int soNamKinhNghiem, string sdt, decimal luong)
         {
-            Id = id;
-            UserId = userId;
-            HoTen = hoTen;
-            NgaySinh = ngaySinh;
-            GioiTinh = gioiTinh;
-            ChuyenMon = chuyenMon;
-            SoNamKinhNghiem = soNamKinhNghiem;
-            Sdt = sdt;
-            Luong = luong;
+            this.id = id;
+            this.userId = userId;
+            this.hoTen = hoTen;
+            this.ngaySinh = ngaySinh;
+            this.gioiTinh = gioiTinh;
+            this.chuyenMon = chuyenMon;
+            this.soNamKinhNghiem = soNamKinhNghiem;
+            this.sdt = sdt;
+            this.luong = luong;
         }
-        public User User { get; set; }
+
+        public User user { get; set; }
+
         public GiaoVien(DataRow row)
         {
-            Id = Convert.ToInt32(row["Id"]);
-            UserId = Convert.ToInt32(row["UserId"]);
-            HoTen = row["HoTen"].ToString();
-            NgaySinh = Convert.ToDateTime(row["NgaySinh"]);
-            GioiTinh = Convert.ToBoolean(row["GioiTinh"]);
-            ChuyenMon = row["ChuyenMon"].ToString();
-            SoNamKinhNghiem = Convert.ToInt32(row["SoNamKinhNghiem"]);
-            Sdt = row["Sdt"].ToString();
-            Luong = Convert.ToDecimal(row["Luong"]);
+            id = Convert.ToInt32(row["Id"]);
+            userId = Convert.ToInt32(row["UserId"]);
+            hoTen = row["HoTen"].ToString();
+            ngaySinh = Convert.ToDateTime(row["NgaySinh"]);
+            gioiTinh = Convert.ToBoolean(row["GioiTinh"]);
+            chuyenMon = row["ChuyenMon"].ToString();
+            soNamKinhNghiem = Convert.ToInt32(row["SoNamKinhNghiem"]);
+            sdt = row["Sdt"].ToString();
+            luong = Convert.ToDecimal(row["Luong"]);
         }
     }
-
 }

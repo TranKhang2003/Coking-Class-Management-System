@@ -1,38 +1,35 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CookingClassManagementSystem.DTO
 {
     public class DanhGiaHocVien
     {
-        public int Id { get; set; }
-        public int MaLopHoc { get; set; }
-        public int HocVienId { get; set; }
-        public int GiaoVienId { get; set; }
-        public string NhanXet { get; set; }
-        public DateTime NgayDanhGia { get; set; }
+        public int id { get; set; }
+        public int maLopHoc { get; set; }
+        public int hocVienId { get; set; }
+        public int giaoVienId { get; set; }
+        public string nhanXet { get; set; }
+        public DateTime ngayDanhGia { get; set; }
 
         public DanhGiaHocVien(int id, int maLopHoc, int hocVienId, int giaoVienId, string nhanXet, DateTime ngayDanhGia)
         {
-            Id = id;
-            MaLopHoc = maLopHoc;
-            HocVienId = hocVienId;
-            GiaoVienId = giaoVienId;
-            NhanXet = nhanXet;
-            NgayDanhGia = ngayDanhGia;
+            this.id = id;
+            this.maLopHoc = maLopHoc;
+            this.hocVienId = hocVienId;
+            this.giaoVienId = giaoVienId;
+            this.nhanXet = nhanXet;
+            this.ngayDanhGia = ngayDanhGia;
         }
+
         public DanhGiaHocVien(DataRow row)
         {
-            Id = Convert.ToInt32(row["Id"]);
-            MaLopHoc = Convert.ToInt32(row["MaLopHoc"]);
-            HocVienId = Convert.ToInt32(row["HocVienId"]);
-            GiaoVienId = Convert.ToInt32(row["GiaoVienId"]);
-            NhanXet = row["NhanXet"].ToString();
-            NgayDanhGia = Convert.ToDateTime(row["NgayDanhGia"]);
+            id = Convert.ToInt32(row["Id"]);
+            maLopHoc = Convert.ToInt32(row["MaLopHoc"]);
+            hocVienId = Convert.ToInt32(row["HocVienId"]);
+            giaoVienId = Convert.ToInt32(row["GiaoVienId"]);
+            nhanXet = row["NhanXet"].ToString();
+            ngayDanhGia = Convert.ToDateTime(row["NgayDanhGia"]);
         }
     }
 }

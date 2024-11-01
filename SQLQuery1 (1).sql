@@ -219,9 +219,9 @@ BEGIN
 END;
 go
 ----PROCEDURE về việc cập nhật mật khẩu
-CREATE PROCEDURE P_UpdatePassword
+CREATE PROCEDURE P_UpdatePasswordByEmail
 (
-    @UserId INT,                  -- ID của người dùng cần cập nhật
+	@Email nvarchar(255),
     @NewPassword NVARCHAR(255)    -- Mật khẩu mới
 )
 AS
@@ -229,7 +229,22 @@ BEGIN
         -- Cập nhật mật khẩu cho người dùng
         UPDATE Users
         SET MatKhau = @NewPassword
-        WHERE id = @UserId
+        WHERE Email = @Email
+END;
+go
+----PROCEDURE về việc cập nhật mật khẩu khi biết mật khẩu cũ
+CREATE PROCEDURE P_UpdatePassword
+(
+	@Id int,
+	@OldPassword nvarchar(255),
+    @NewPassword NVARCHAR(255)    -- Mật khẩu mới
+)
+AS
+BEGIN
+        -- Cập nhật mật khẩu cho người dùng
+        UPDATE Users
+        SET MatKhau = @NewPassword
+        WHERE id = @Id and MatKhau = @OldPassword
 END;
 go
 ----PROCEDURE về việc xóa người dùng

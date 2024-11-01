@@ -1,26 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CookingClassManagementSystem.DTO
 {
     public class LopHocCoPhi
     {
-        public int MaLopHoc { get; set; }
-        public int LopHocNauAnId { get; set; }
+        public int maLopHoc { get; set; }
+        public int lopHocNauAnId { get; set; }
 
         public LopHocCoPhi(int maLopHoc, int lopHocNauAnId)
         {
-            MaLopHoc = maLopHoc;
-            LopHocNauAnId = lopHocNauAnId;
+            this.maLopHoc = maLopHoc;
+            this.lopHocNauAnId = lopHocNauAnId;
         }
+
         public LopHocCoPhi(DataRow row)
         {
-            MaLopHoc = Convert.ToInt32(row["MaLopHoc"]);
-            LopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
+            maLopHoc = Convert.ToInt32(row["MaLopHoc"]);
+            lopHocNauAnId = Convert.ToInt32(row["LopHocNauAnId"]);
         }
     }
 }

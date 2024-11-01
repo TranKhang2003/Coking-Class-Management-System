@@ -25,8 +25,8 @@ namespace CookingClassManagementSystem.DTO
         }
         public Role(DataRow row)
         {
-            Id = Convert.ToInt32(row["Id"]);             // Hoặc "Ma" nếu bạn đang dùng mã
-            RoleName = row["RoleName"].ToString();       // Tên vai trò
+            Id = Convert.ToInt32(row["Id"]);            
+            RoleName = row["RoleName"].ToString();      
         }
     }
 
