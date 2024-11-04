@@ -29,7 +29,11 @@ go
 		id int IDENTITY(1,1) PRIMARY KEY,
 		user_id int,
 		HoTen NVARCHAR(255),
+<<<<<<< HEAD
 		NgaySinh NVARCHAR(50),
+=======
+		NgaySinh DATE,
+>>>>>>> 6594a9a98ed20059e09cb11c3b67451b9be491a5
 		GioiTinh BIT,
 		ChuyenMon NVARCHAR(255),
 		SoNamKinhNghiem INT check (SoNamKinhNghiem > 0),
@@ -38,6 +42,7 @@ go
 		foreign key (user_id) references Users(id) on delete cascade
 	);
 
+<<<<<<< HEAD
 -- Chèn người dùng vào bảng Users
 INSERT INTO Users (HoTen, MatKhau, Email)
 VALUES (N'admin', '123456', 'khaigia2511@gmail.com');
@@ -71,6 +76,8 @@ VALUES (@UserId, @RoleId);
  select* from Users
  select * from User_Role
 
+=======
+>>>>>>> 6594a9a98ed20059e09cb11c3b67451b9be491a5
 	-- Món Ăn Table
 	CREATE TABLE MonAn (
 		TenMon NVARCHAR(255) PRIMARY KEY,
