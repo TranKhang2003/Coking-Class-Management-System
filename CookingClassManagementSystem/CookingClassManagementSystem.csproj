@@ -75,6 +75,7 @@
     <Compile Include="DAO\ThongTinQuangCaoLopHocDAO.cs" />
     <Compile Include="DAO\UserDAO.cs" />
     <Compile Include="DataProvider.cs" />
+    <Compile Include="Design\Design.cs" />
     <Compile Include="DetailsClassControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -97,6 +98,12 @@
     <Compile Include="DTO\Role.cs" />
     <Compile Include="DTO\ThongTinQuangCaoLopHoc.cs" />
     <Compile Include="DTO\User.cs" />
+    <Compile Include="FormDetailClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailClass.Designer.cs">
+      <DependentUpon>FormDetailClass.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -150,6 +157,9 @@
     <EmbeddedResource Include="DetailsClassControl.resx">
       <DependentUpon>DetailsClassControl.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailClass.resx">
+      <DependentUpon>FormDetailClass.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -167,6 +177,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="RegisterControl.resx">
       <DependentUpon>RegisterControl.cs</DependentUpon>
@@ -196,6 +207,9 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Image\a.jpg" />
+    <None Include="Resources\location.png" />
+    <None Include="Resources\chef.png" />
+    <None Include="Resources\chronometer.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
