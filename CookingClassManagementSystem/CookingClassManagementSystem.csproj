@@ -142,6 +142,7 @@
     <Compile Include="RegisterUserForm.Designer.cs">
       <DependentUpon>RegisterUserForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Session.cs" />
     <Compile Include="TeacherMainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -207,6 +208,10 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Image\a.jpg" />
+    <None Include="Resources\935ef3e9c164fe37ddde01ccd8cec4ba.gif" />
+    <None Include="Resources\people.png" />
+    <None Include="Resources\low-battery1.png" />
+    <None Include="Resources\money-bag.png" />
     <None Include="Resources\location.png" />
     <None Include="Resources\chef.png" />
     <None Include="Resources\chronometer.png" />

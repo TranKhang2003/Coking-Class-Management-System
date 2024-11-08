@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CookingClassManagementSystem.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,5 +16,14 @@ namespace CookingClassManagementSystem.DAO
             private set { instance = value; }
         }
         public LopHocCoPhiDAO() { }
+        public bool AddLopHocCoPhi(LopHocCoPhi lopHocCoPhi)
+        {
+            object[] para = new object[]
+            {
+                lopHocCoPhi.lopHocNauAnId
+
+            };
+            return (int)DataProvider.Instance.ExcuteNonQuery("P_AddLopHocCoPhi @LopHocNauAnId", para) > 0;
+        }
     }
 }

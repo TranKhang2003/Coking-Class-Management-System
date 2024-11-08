@@ -202,12 +202,13 @@ namespace CookingClassManagementSystem
             // 
             // panel4
             // 
+            this.panel4.BackColor = System.Drawing.Color.Tomato;
             this.panel4.Controls.Add(this.button12);
             this.panel4.Controls.Add(this.button11);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel4.Location = new System.Drawing.Point(279, 24);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1089, 42);
+            this.panel4.Size = new System.Drawing.Size(1089, 52);
             this.panel4.TabIndex = 6;
             this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
             // 
@@ -220,10 +221,10 @@ namespace CookingClassManagementSystem
             this.button12.ForeColor = System.Drawing.Color.White;
             this.button12.Image = ((System.Drawing.Image)(resources.GetObject("button12.Image")));
             this.button12.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button12.Location = new System.Drawing.Point(1005, 0);
+            this.button12.Location = new System.Drawing.Point(955, 0);
             this.button12.Margin = new System.Windows.Forms.Padding(0);
             this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(42, 42);
+            this.button12.Size = new System.Drawing.Size(66, 52);
             this.button12.TabIndex = 5;
             this.button12.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button12.UseVisualStyleBackColor = true;
@@ -237,10 +238,10 @@ namespace CookingClassManagementSystem
             this.button11.ForeColor = System.Drawing.Color.White;
             this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
             this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button11.Location = new System.Drawing.Point(1047, 0);
+            this.button11.Location = new System.Drawing.Point(1021, 0);
             this.button11.Margin = new System.Windows.Forms.Padding(4);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(42, 42);
+            this.button11.Size = new System.Drawing.Size(68, 52);
             this.button11.TabIndex = 6;
             this.button11.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button11.UseVisualStyleBackColor = true;
@@ -249,23 +250,25 @@ namespace CookingClassManagementSystem
             // 
             this.panel3.Controls.Add(this.listViewClass);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(279, 66);
+            this.panel3.Location = new System.Drawing.Point(279, 76);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1089, 652);
+            this.panel3.Size = new System.Drawing.Size(1089, 642);
             this.panel3.TabIndex = 7;
             // 
             // listViewClass
             // 
+            this.listViewClass.BackColor = System.Drawing.Color.Tomato;
             this.listViewClass.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1,
             this.columnHeader2,
             this.columnHeader3});
             this.listViewClass.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listViewClass.HideSelection = false;
+            this.listViewClass.HoverSelection = true;
             this.listViewClass.LargeImageList = this.largeIconImage;
             this.listViewClass.Location = new System.Drawing.Point(0, 0);
             this.listViewClass.Name = "listViewClass";
-            this.listViewClass.Size = new System.Drawing.Size(1089, 652);
+            this.listViewClass.Size = new System.Drawing.Size(1089, 642);
             this.listViewClass.TabIndex = 0;
             this.listViewClass.UseCompatibleStateImageBehavior = false;
             this.listViewClass.View = System.Windows.Forms.View.Tile;

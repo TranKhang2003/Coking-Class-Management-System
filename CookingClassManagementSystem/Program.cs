@@ -16,7 +16,7 @@ namespace CookingClassManagementSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormDetailClass());
+            Application.Run(new AddClassForm());
         }
     }
 }

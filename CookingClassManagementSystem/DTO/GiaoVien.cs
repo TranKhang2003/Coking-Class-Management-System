@@ -81,6 +81,10 @@ namespace CookingClassManagementSystem.DTO
             this.sdt = sdt;
             this.luong = luong;
         }
+        public GiaoVien(string hoTen)
+        {
+            this.hoTen = hoTen;
+        }
 
         public User user { get; set; }
 
