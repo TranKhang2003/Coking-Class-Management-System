@@ -25,7 +25,7 @@ namespace DTO
             this.thoiGianBatDau = thoiGianBatDau;
             this.thoiGianKetThuc = thoiGianKetThuc;
         }
-
+        public LichHocDTO(int maLopHoc, int maLichHoc) { this.maLopHoc = maLopHoc; this.maLichHoc = maLichHoc; }
         public LichHocDTO(DataRow row)
         {
             maLichHoc = Convert.ToInt32(row["MaLichHoc"]);

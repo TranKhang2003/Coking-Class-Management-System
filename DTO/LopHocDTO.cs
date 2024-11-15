@@ -29,7 +29,7 @@ namespace DTO
             this.thongTin = thongTin;
             this.ghiChu = ghiChu;
         }
-
+        public LopHocDTO(int maLopHoc) { this.maLopHoc = maLopHoc; }
         public LopHocDTO(DataRow row)
         {
             maLopHoc = Convert.ToInt32(row["MaLopHoc"]);

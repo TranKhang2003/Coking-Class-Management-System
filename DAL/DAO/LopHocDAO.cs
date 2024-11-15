@@ -24,7 +24,7 @@ namespace DAL.DAO
         private LopHocDAO() { }
         public DataTable GetClass()
         {
-            return DataProvider.Instance.ExcuteQuery("select MonAn.TenMon, MonAn.HinhAnhMon, LichHoc.ChiPhi from MonAn join LopHocNauAn on MonAn.TenMon = LopHocNauAn.MonAn join LichHoc on LopHocNauAn.MaLopHoc = LichHoc.MaLopHoc");
+            return DataProvider.Instance.ExcuteQuery("select LopHocNauAn.MaLopHoc, LichHoc.MaLichHoc , MonAn.TenMon, LichHoc.ThoiGianBatDau , ChiTietLopHoc.TrangThai  from MonAn join LopHocNauAn on MonAn.TenMon = LopHocNauAn.MonAn join LichHoc on LopHocNauAn.MaLopHoc = LichHoc.MaLopHoc join ChiTietLopHoc on ChiTietLopHoc.MaLopHoc = LopHocNauAn.MaLopHoc");
         }
         public DataTable GetClassDetail(string tenmon)
         {
@@ -39,6 +39,7 @@ namespace DAL.DAO
 
             return DataProvider.Instance.ExcuteQuery(query, parameters);
         }
+        
         public bool AddClass(LopHocDTO lopHoc)
         {
             string query = "P_AddLopHocNauAn @MonAn , @GiaoVienId , @DiaDiem, @SoNguoiDangKyToiDA, @ThongTin, @GhiChu";
@@ -102,6 +103,15 @@ namespace DAL.DAO
             object result = DataProvider.Instance.ExcuteNonQuery(query, parameters);
             return (int)result > 0;
 
+        }
+        public DataTable XemLopHoc(LichHocDTO lichHocDTO)
+        {
+            string query = "select LopHocNauAn.MonAn, GiaoVien.HoTen, LopHocNauAn.DiaDiem, LopHocNauAn.SoNguoiDangKy, SoNguoiDangKyToiDA from GiaoVien join LopHocNauAn on LopHocNauAn.GiaoVienId = GiaoVien.id where LopHocNauAn.MaLopHoc = @idLop ";
+            object[] para = new object[] {
+                lichHocDTO.maLopHoc
+            };
+            DataTable data = DataProvider.Instance.ExcuteQuery(query, para);
+            return data;
         }
      }
 }

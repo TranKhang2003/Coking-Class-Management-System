@@ -46,12 +46,49 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Design\Design.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="DanhSachHocVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="DanhSachHocVien.Designer.cs">
+      <DependentUpon>DanhSachHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\Design.cs" />
+    <Compile Include="GiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiangVien.Designer.cs">
+      <DependentUpon>GiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lophoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lophoc.Designer.cs">
+      <DependentUpon>Lophoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LopHocChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LopHocChiTiet.Designer.cs">
+      <DependentUpon>LopHocChiTiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinLopHoc.Designer.cs">
+      <DependentUpon>ThongTinLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>Trangchu.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy.Designer.cs">
+      <DependentUpon>QuanLy.cs</DependentUpon>
     </Compile>
     <Compile Include="SignUp.cs">
       <SubType>Form</SubType>
@@ -67,6 +104,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GiangVien.resx">
+      <DependentUpon>GiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lophoc.resx">
+      <DependentUpon>Lophoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LopHocChiTiet.resx">
+      <DependentUpon>LopHocChiTiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinLopHoc.resx">
+      <DependentUpon>ThongTinLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trangchu.resx">
+      <DependentUpon>Trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy.resx">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SignUp.resx">
       <DependentUpon>SignUp.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +133,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="SignIn.resx">
       <DependentUpon>SignIn.cs</DependentUpon>
@@ -104,6 +160,30 @@
       <Project>{67f3fc0c-3eed-4fbd-ae88-859557d1ce01}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza-3844_512.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chef %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chef %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -39,3 +39,9 @@ D:\New folder\GUI\obj\Debug\GUI.csproj.Up2Date
 D:\New folder\GUI\obj\Debug\GUI.exe
 D:\New folder\GUI\obj\Debug\GUI.pdb
 D:\New folder\GUI\obj\Debug\GUI.SignUp.resources
+D:\New folder\GUI\obj\Debug\GUI.QuanLy.resources
+D:\New folder\GUI\obj\Debug\GUI.GiangVien.resources
+D:\New folder\GUI\obj\Debug\GUI.Lophoc.resources
+D:\New folder\GUI\obj\Debug\GUI.Trangchu.resources
+D:\New folder\GUI\obj\Debug\GUI.LopHocChiTiet.resources
+D:\New folder\GUI\obj\Debug\GUI.ThongTinLopHoc.resources
