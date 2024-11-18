@@ -1,0 +1,64 @@
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\BLL.exe.config
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\BLL.exe
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DAL.exe
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DTO.exe
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DAL.exe.config
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\New folder\BLL\bin\Debug\DTO.exe.config
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.exe
+C:\Users\admin\Downloads\New folder\BLL\obj\Debug\BLL.pdb
+D:\New folder\BLL\bin\Debug\BLL.exe.config
+D:\New folder\BLL\bin\Debug\BLL.exe
+D:\New folder\BLL\bin\Debug\BLL.pdb
+D:\New folder\BLL\bin\Debug\DAL.exe
+D:\New folder\BLL\bin\Debug\DTO.exe
+D:\New folder\BLL\bin\Debug\DAL.pdb
+D:\New folder\BLL\bin\Debug\DAL.exe.config
+D:\New folder\BLL\bin\Debug\DTO.pdb
+D:\New folder\BLL\bin\Debug\DTO.exe.config
+D:\New folder\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\New folder\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\New folder\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\New folder\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\New folder\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\New folder\BLL\obj\Debug\BLL.exe
+D:\New folder\BLL\obj\Debug\BLL.pdb
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.exe.config
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.exe
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.exe
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.exe
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.exe.config
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.exe.config
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.exe
+C:\Users\LENOVO\Downloads\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.pdb
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.exe.config
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.exe
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\BLL.pdb
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.exe
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.exe
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.pdb
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DAL.exe.config
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.pdb
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\bin\Debug\DTO.exe.config
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.exe
+D:\Bai tieu Luan\Coking-Class-Management-System-NewBranch (1)\Coking-Class-Management-System-NewBranch\BLL\obj\Debug\BLL.pdb

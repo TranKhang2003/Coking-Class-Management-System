@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\CookingManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\detailsclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\detailsclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\detailsclassform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentcalendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\student\\studentcalendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\classroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\monanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\editclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\addfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\editclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\addclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\addclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\classroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8609B-1390-4BDA-9B64-51BAE776D6C9}|..\\GUI\\GUI.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\addfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dao\\lophoccophidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F3FC0C-3EED-4FBD-AE88-859557D1CE01}|..\\DTO\\DTO.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dto\\lophocmienphidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dao\\lophocmienphidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dao\\monandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F3FC0C-3EED-4FBD-AE88-859557D1CE01}|..\\DTO\\DTO.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dto\\lophoccophidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F3FC0C-3EED-4FBD-AE88-859557D1CE01}|..\\DTO\\DTO.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dto\\lophocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dao\\lophocdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A49354A-E955-4F62-B765-690E6F74289F}|..\\DAL\\DAL.csproj|d:\\bai tieu luan\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\dal\\dao\\giaoviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\lenovo\\downloads\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\lenovo\\downloads\\coking-class-management-system-newbranch (1)\\coking-class-management-system-newbranch\\gui\\admin\\addclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentClassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentClassForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:54:38.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMainForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentMainForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentMainForm.cs",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentMainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:09:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsClassForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\DetailsClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.cs",
+              "RelativeToolTip": "..\\GUI\\Student\\DetailsClassForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:44:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentClassForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentClassForm.cs",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentClassForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:57:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsClassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\DetailsClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Student\\DetailsClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:24:31.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsClassForm.Designer.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\DetailsClassForm.Designer.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\DetailsClassForm.Designer.cs",
+              "RelativeToolTip": "..\\GUI\\Student\\DetailsClassForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:38:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentMainForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentMainForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:08:54.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCalendarForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentCalendarForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentCalendarForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentCalendarForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentCalendarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:37:18.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCalendarForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentCalendarForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Student\\StudentCalendarForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Student\\StudentCalendarForm.cs",
+              "RelativeToolTip": "..\\GUI\\Student\\StudentCalendarForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:39:01.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Program.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Program.cs",
+              "RelativeToolTip": "..\\GUI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:37:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassroomForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\ClassroomForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\ClassroomForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\ClassroomForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\ClassroomForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:34:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFoodForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddFoodForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AddFoodForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddFoodForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\AddFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:50:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AdminForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:39:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonAnForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\MonAnForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\MonAnForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\MonAnForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\MonAnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:43:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditClassForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\EditClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditClassForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\EditClassForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:53:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditFoodForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditFoodForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\EditFoodForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditFoodForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\EditFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:28:02.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditClassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\EditClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditClassForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\EditClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:52:27.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditFoodForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditFoodForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\EditFoodForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\EditFoodForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\EditFoodForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:58:14.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AdminForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\AdminForm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:39:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddClassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AddClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\AddClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:02:57.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddClassForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AddClassForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\AddClassForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:06:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClassroomForm.cs [Design]",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\ClassroomForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\ClassroomForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\ClassroomForm.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\Admin\\ClassroomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:29.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddFoodForm.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddFoodForm.cs",
+              "RelativeDocumentMoniker": "..\\GUI\\Admin\\AddFoodForm.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddFoodForm.cs",
+              "RelativeToolTip": "..\\GUI\\Admin\\AddFoodForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:02:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LopHocCoPhiDAO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocCoPhiDAO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAO\\LopHocCoPhiDAO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocCoPhiDAO.cs",
+              "RelativeToolTip": "..\\DAL\\DAO\\LopHocCoPhiDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:04:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataProvider.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "..\\DAL\\DataProvider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:01:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LopHocMienPhiDTO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocMienPhiDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\LopHocMienPhiDTO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocMienPhiDTO.cs",
+              "RelativeToolTip": "..\\DTO\\LopHocMienPhiDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:24:17.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LopHocMienPhiDAO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocMienPhiDAO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAO\\LopHocMienPhiDAO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocMienPhiDAO.cs",
+              "RelativeToolTip": "..\\DAL\\DAO\\LopHocMienPhiDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:28:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MonAnDAO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\MonAnDAO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAO\\MonAnDAO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\MonAnDAO.cs",
+              "RelativeToolTip": "..\\DAL\\DAO\\MonAnDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:53:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LopHocCoPhiDTO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocCoPhiDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\LopHocCoPhiDTO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocCoPhiDTO.cs",
+              "RelativeToolTip": "..\\DTO\\LopHocCoPhiDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:14:35.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LopHocDTO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\LopHocDTO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DTO\\LopHocDTO.cs",
+              "RelativeToolTip": "..\\DTO\\LopHocDTO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:22:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LopHocDAO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocDAO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAO\\LopHocDAO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\LopHocDAO.cs",
+              "RelativeToolTip": "..\\DAL\\DAO\\LopHocDAO.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:05:17.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GiaoVienDAO.cs",
+              "DocumentMoniker": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\GiaoVienDAO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAO\\GiaoVienDAO.cs",
+              "ToolTip": "D:\\Bai tieu Luan\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\DAL\\DAO\\GiaoVienDAO.cs",
+              "RelativeToolTip": "..\\DAL\\DAO\\GiaoVienDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:41:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:56:20.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AdminForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:55:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Coking-Class-Management-System-NewBranch (1)\\Coking-Class-Management-System-NewBranch\\GUI\\Admin\\AddClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:06:19.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
